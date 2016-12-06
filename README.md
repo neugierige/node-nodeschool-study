@@ -1,5 +1,3 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
-
 # Node & Express Self Study
 
 Node is JavaScript without the browser. Since you're already familiar with
@@ -74,38 +72,6 @@ against the exercise file.
 You will need to create your own file structure in all directories except
 `learnyounode`. Each exercise should have its own file.
 
-## Deliverables
-
-You are required to push your changes every day, based on the following
-schedule. Open a new pull request if you worked on a different branch. If you
-worked on the same branch, reopen your pull request if it was closed. Your
-submissions will be checked for completeness, **not** for accuracy. That's what
-`learnyounode verify` is for.
-
-Some exercises will not result in changes inside the repository. If you complete
-a series of exercises and they do not result in a dirty working directory, no
-pull request is required.
-
-Certain exercises may have open issues as `node`, `npm`, and `express` change
-very rapidly. If you run into trouble, search workshop issues first. You can get
-a link to the workshop GitHub repositories from the nodeschool website.
-
-| Workshop       | Exercises                  | Due     |
-|----------------|----------------------------|---------|
-| `learnyounode` | Exercises 00–05            | `t + 0` |
-| `learnyounode` | Exercises 06–09            | `t + 1` |
-| `how-to-npm`   | Exercises 00–05            | `t + 0` |
-| `expressworks` | Exercises 00–01, 03, 05–07 | `t + 2` |
-
-Ranges are inclusive. Due dates are read as follows:
-
--   `t + 0` means "today".
--   `t + 1` means one business day from today.
--   A "business day" is a day on which we meet as a cohort.
-
-Any additional exercises in each workshop without a listed due date in the above
-table are optional. You will not be assessed on any optional exercises, but you
-may have to complete them to continue on to other required exercises.
 
 ## Additional Resources
 
@@ -113,9 +79,3 @@ may have to complete them to continue on to other required exercises.
 -   [Node Documentation](https://nodejs.org/api/)
 -   [NPM Documentation](https://docs.npmjs.com)
 -   [Art of Node](https://github.com/maxogden/art-of-node)
-
-## [License](LICENSE)
-
-1. All content is licensed under a CC­BY­NC­SA 4.0 license.
-1. All software code is licensed under GNU GPLv3. For commercial use or
-alternative licensing, please contact legal@ga.co.
